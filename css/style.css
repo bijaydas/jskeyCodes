@@ -1,0 +1,39 @@
+* {margin: 0; padding: 0;}
+
+.portion {
+	width: 50%;
+	background-color: #eae0e0;
+	text-align: center;
+	color: #484848;
+	font-size: 1.3em;
+	padding: 10px 20px;
+	font-family: verdana;
+	box-shadow: 2px 2px 5px gray;
+	-webkit-box-shadow: 2px 2px 5px gray;
+	-moz-box-shadow: 2px 2px 5px gray;
+	margin: 20% auto;
+}
+.keyCodeNum {
+	font-family: verdana;
+	font-size: 13em;	
+	width: 60%;
+	margin: 8% auto 2%;
+	text-align: center;
+	color: #676767;
+	display: none;
+}
+.keyCodeName {
+	background-color: #dcdcdc;
+	text-align: center;
+	width: 25%;
+	margin: auto;
+	padding: 20px 30px;
+	font-size: 2em;
+	font-family: verdana;
+	box-shadow: 2px 2px 5px gray;
+	-webkit-box-shadow: 2px 2px 5px gray;
+	-moz-box-shadow: 2px 2px 5px gray;
+	font-weight: bold;
+	color: #404040;
+	display: none;
+}
