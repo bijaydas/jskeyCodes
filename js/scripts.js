@@ -102,7 +102,7 @@
 		222: "single quote"
 	};
 
-	var body 		= document.getElementsByTagName('body')[0];
+	var body 	= document.getElementsByTagName('body')[0];
 	var portion 	= document.getElementsByClassName('portion')[0];
 	var keyCodeNum  = document.getElementsByClassName('keyCodeNum')[0];
 	var keyCodeName = document.getElementsByClassName('keyCodeName')[0];
