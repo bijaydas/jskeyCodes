@@ -108,7 +108,7 @@
 	var keyCodeName = document.getElementsByClassName('keyCodeName')[0];
 
 	body.onkeydown = function(e) {
-		
+
 		var key 				  = e.which || e.keyCode;
 
 		portion.style.display 	  = "none";
@@ -117,6 +117,5 @@
 
 		keyCodeNum.innerHTML	  = key;
 		keyCodeName.innerHTML 	  = keyCodes[key];
-
 	}
 })();
